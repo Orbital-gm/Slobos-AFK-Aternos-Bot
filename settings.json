@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "168.119.35.49:11238",
+    "ip": "168.119.35.49",
     "port": 11238,
     "version": "",
     "try-creative": false
