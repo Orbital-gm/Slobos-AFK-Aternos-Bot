@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "168.119.35.49:11238",
-    "port": 14143,
+    "port": 11238,
     "version": "",
     "try-creative": false
   },
